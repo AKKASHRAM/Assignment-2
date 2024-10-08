@@ -80,7 +80,7 @@
             </td>
         </tr>
         <tr>
-            <td>Passowrd:</td>
+            <td>Password:</td>
             <td><input type="text" name="password" required</td>
         <tr>
             <td>Confirm Passowrd:</td>
